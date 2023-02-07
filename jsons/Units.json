@@ -14,7 +14,7 @@
 		"name": "Ice Worker",
 		"unitType": "Ice Breaker",
 		"movement": 2,
-		"uniques": ["Can build improvements on tiles", "Amphibious"],
+		"uniques": ["Can build [Remove Ice] improvements on tiles", "Amphibious"],
 		"cost": 10
 	},
 	{
