@@ -347,7 +347,6 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
-		//"Requires [Mercenary Army]" in BNW
 	},
 	{
 		"name": "Cog",
