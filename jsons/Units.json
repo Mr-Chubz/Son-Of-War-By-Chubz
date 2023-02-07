@@ -338,14 +338,12 @@
 {
 		"name": "Landsknecht",
 		"unitType": "Sword",
-		"replaces": "Pikeman",
-		"movement": 3,
-		"strength": 14,
+		"movement": 2,
+		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>", "Can move immediately once bought", "Unbuildable"],
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
+		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Bestial] units>","[+50]% Strength <vs [Bestial ranged] units>","Can move immediately once bought", "Earn [100]% of the damage done to [city] units as [Gold]"],
+		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
 	{
