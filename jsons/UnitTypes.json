@@ -79,7 +79,7 @@
     },
        {
         "name": "Other Ice Breaker",
-        "movementType": "Land",
+        "movementType": "Land", "Water",
         "uniques": ["Can enter ice tiles", "Invisible to others"]
     },
     {
