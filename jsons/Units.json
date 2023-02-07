@@ -301,7 +301,7 @@
 	},
 	{
 		"name": "Great Galley",
-		"unitType": "Naval Ranged",
+		"unitType": "Ranged Water",
 		"movement": 4,
 		"strength": 11,
 		"rangedStrength": 13,
@@ -351,14 +351,14 @@
 		"cost": 45,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>", "Can move immediately once bought", "Unbuildable"],
-		"upgradesTo": "Pike and Shot",
+		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
 		//"Requires [Mercenary Army]" in BNW
 	},
 	{
 		"name": "Cog",
-		"unitType": "Naval Melee",
+		"unitType": "Melee Water",
 		"movement": 4,
 		"strength": 15,
 		"cost": 100,
@@ -378,7 +378,7 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"requiredResource": "Iron",
-		"upgradesTo": "Ship of the Line",
+		"upgradesTo": "Frigate",
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
@@ -397,7 +397,7 @@
 	},
 	{
 		"name": "Commerce Raider",
-		"unitType": "Naval Raider",
+		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 13,
 		"cost": 150,
@@ -453,7 +453,7 @@
 		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
-		"upgradesTo": "Grenadier",
+		"upgradesTo": "Landship",
 		"uniques": ["[+100]% Strength <vs cities>", "No defensive terrain bonus", "Can only attack [City] units", "Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
@@ -479,7 +479,7 @@
 		"range": 1,
 		"cost": 120,
 		"requiredTech": "Civil Service",
-		"upgradesTo": "Arquebusier",
+		"upgradesTo": "Machine gun",
 		"obsoleteTech": "Chemistry",
 		"attackSound": "arrow"
 	},
