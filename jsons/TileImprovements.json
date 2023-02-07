@@ -156,6 +156,14 @@
 		"uniques": ["Can be built outside your borders"],
 		"shortcutKey": "X"
 	},
+{
+		"name": "Remove Ice",
+		"turnsToBuild": 6,
+		"terrainsCanBeBuiltOn": ["Ice"],
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders"],
+		"shortcutKey": "X"
+	},
 
 	// These are unique and have unique in-game checks related to them
 	{
