@@ -11,6 +11,13 @@
 		"cost": 70
 	},
 	{
+		"name": "Ice Worker",
+		"unitType": "Ice breaker",
+		"movement": 2,
+		"uniques": ["Can build improvements on tiles", "Amphibious"],
+		"cost": 10
+	},
+	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
