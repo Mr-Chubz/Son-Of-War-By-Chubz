@@ -250,6 +250,33 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Javelineer",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 9,
+		"range": 1,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Skirmisher",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Great Galley",
+		"unitType": "Ranged Water",
+		"movement": 4,
+		"strength": 11,
+		"rangedStrength": 13,
+		"cost": 75,
+		"requiredTech": "Optics",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+
+	{
 		"name": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -278,33 +305,7 @@
 		"attackSound": "metalhit"
 		// Barbarian unique Swordsman. Has same icon and name but slightly different 3d texture
 	},
-	{
-		"name": "Javelineer",
-		"unitType": "Ranged",
-		"movement": 2,
-		"strength": 8,
-		"rangedStrength": 9,
-		"range": 1,
-		"cost": 75,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Skirmisher",
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Great Galley",
-		"unitType": "Ranged Water",
-		"movement": 4,
-		"strength": 11,
-		"rangedStrength": 13,
-		"cost": 75,
-		"requiredTech": "Optics",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Galleass",
-		"obsoleteTech": "Astronomy",
-		"attackSound": "nonmetalhit"
-	},
-
+	
 	*/
 
 	// Medieval Era
