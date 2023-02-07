@@ -404,10 +404,9 @@
 		"requiredTech": "Compass",
 		"upgradesTo": "Commerce Raider",
 		"obsoleteTech": "Steam Power",
-		"uniques": ["May capture killed [Water] units"], "Cannot attack across coasts"],
+		"uniques": ["May capture killed [Water] units", "Cannot attack across coasts"],
 		"attackSound": "cannon"
 	},
-
 	{
 		"name": "Knight",
 		"unitType": "Mounted",
