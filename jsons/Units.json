@@ -200,7 +200,7 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs cities>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs cities>"], "Never appears as a Barbarian unit"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs cities>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs cities>", "Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},
 
