@@ -77,11 +77,6 @@
         "movementType": "Water",
         "uniques": ["Can enter ice tiles", "Invisible to others"]
     },
-       {
-        "name": "Other Ice Breaker",
-        "movementType": "Land", "Water",
-        "uniques": ["Can enter ice tiles", "Invisible to others"]
-    },
     {
         "name": "Aircraft Carrier",
         "movementType": "Water"
