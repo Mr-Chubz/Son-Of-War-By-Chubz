@@ -349,7 +349,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Bestial] units>","[+50]% Strength <vs [Bestial ranged] units>","Can move immediately once bought", "Earn [100]% of the damage done to [city] units as [Gold]"],
+		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Bestial] units>","[+50]% Strength <vs [Bestial ranged] units>","Can move immediately once bought", "Earn [100]% of the damage done to [cities] as [Gold]"],
 		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
@@ -1081,7 +1081,7 @@
 		"replaces": "Knight",
 		"upgradesTo": "Cavalry",
 		"requiredTech": "Chivalry",
-		"obsoleteTech": "Flight",
+		"obsoleteTech": "Military Science",
 		"interceptRange": 2,
 		"uniques": ["Can move after attacking","[25]% chance to intercept air attacks"],
 		"hurryCostModifier": 20,
