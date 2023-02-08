@@ -1054,7 +1054,7 @@
 	},
 	{
 		"name": "Great Admiral",
-		"unitType": "Civilian",
+		"unitType": "Civilian Water",
 		"uniques": ["Can start an [8]-turn golden age","Can heal all adjacent units [+30] HP", "[+15]% Strength bonus for [Military] units within [2] tiles", "Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
