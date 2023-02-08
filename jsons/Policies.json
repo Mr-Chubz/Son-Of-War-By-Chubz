@@ -234,7 +234,7 @@
 	},
 	{
 		"name": "Commerce",
-		"uniques": ["[+25]% [Gold] [in capital]"],
+		"uniques": ["[+25]% [Gold] [in capital]","May buy [Landsknecht] units with [Gold] for [1] times their normal Production cost"]
 		"era": "Medieval era",
 		"policies": [
 			{
