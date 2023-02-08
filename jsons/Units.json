@@ -1056,7 +1056,7 @@
 		"name": "Great Admiral",
 		"unitType": "Civilian",
 		"uniques": ["Can start an [8]-turn golden age","Can heal all adjacent units [+30] HP", "[+15]% Strength bonus for [Military] units within [2] tiles", "Great Person - [War]", "Unbuildable"],
-		"movement": 3
+		"movement": 2
 	},
 
 	/* Religious units */
