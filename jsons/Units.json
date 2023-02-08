@@ -11,13 +11,6 @@
 		"cost": 70
 	},
 	{
-		"name": "Ice Worker",
-		"unitType": "Ice Breaker",
-		"movement": 2,
-		"uniques": ["Can build [Water] improvements on water when embarked","Can build [Remove Ice] improvements on tiles when embarked", "Amphibious"],
-		"cost": 10
-	},
-	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
