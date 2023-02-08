@@ -349,7 +349,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Bestial] units>","[+50]% Strength <vs [Bestial ranged] units>","Can move immediately once bought", "Earn [100]% of the damage done to [cities] as [Gold]"],
+		"uniques": ["No movement cost to pillage","Unbuildable","Can be purchased","[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Bestial] units>","[+50]% Strength <vs [Bestial ranged] units>","Can move immediately once bought", "Earn [100]% of the damage done to [cities] as [Gold]"],
 		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
