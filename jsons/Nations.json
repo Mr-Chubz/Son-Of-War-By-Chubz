@@ -106,7 +106,6 @@
 		"uniques": ["[+100]% [Happiness] [in all cities connected to capital]", "[50]% of excess happiness converted to [Culture]","Each city founded increases culture cost of policies [100]% less than normal"],
 		"cities": ["Imperia", "Antor", "Enrade", "Gryffor", "Asdale", "Yelor", "Grandeur"]
 	},
-	/*
 	{
 		"name": "Onuqi",
 		"leaderName": "Tiawathi",
@@ -129,7 +128,6 @@
 		"uniques": ["[+3 Happiness] from every [Ice]","[+3 Happiness] from every [Marsh]","[+3 Happiness] from every [Oasis]","[+3 Happiness] from every [Flood plains]","[+3 Happiness] from every [Atoll]","[+3 Production] from every [Mountain]","[+2 Culture] from every [Desert]","[+2 Culture] from every [Snow]","[+1 Food, +1 Culture] from every [Tundra]","[+1 Food, +1 Gold] from every [Coast]","[+1 Food, +1 Gold] from every [Ocean]","[+1 Food] from every [Grassland]","[+1 Food, +1 Production] from every [Plains]","[+1 Food, +1 Gold] from every [Lakes]","[+1 Production] from every [Hill]"],
 		"cities": ["Onuqua"]
 	},
-	*/
 	// Ancient-Era Nations
 	{
 		"name": "Neph",
