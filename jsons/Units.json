@@ -490,7 +490,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["All adjacent units heal [10] extra HP when healing"],
-		"cost": 275,
+		"cost": 135,
 		"requiredTech": "Education",
 	},
 
