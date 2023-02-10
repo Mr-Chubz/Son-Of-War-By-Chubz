@@ -22,7 +22,7 @@
 	{
 		"name": "Herald",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age","Cannot be purchased","[+10]% Strength bonus for [Military] units within [1] tiles",]
+		"uniques": ["Can start an [8]-turn golden age","Cannot be purchased","[+10]% Strength bonus for [Military] units within [2] tiles","[-15]% tile improvement construction time for unitd within [2] tiles"]
 		"cost": 240,
 		"hurryCostModifier": 20,
 		"movement": 2
@@ -126,7 +126,6 @@
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	},
-	/*
 	{
 		"name": "Galley",
 		"unitType": "Water Melee",
@@ -139,7 +138,6 @@
 		"attackSound": "nonmetalhit"
 		//Barbarian unique naval unit, weaker and slower than Trireme.
 	},
-	*/
 	{
 		"name": "Chariot Archer",
 		"unitType": "Archery",
@@ -166,7 +164,6 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>"],
 		"attackSound": "metalhit"
 	},
-	/*
 	{
 		"name": "Spearman",
 		"unitType": "Sword",
@@ -180,7 +177,14 @@
 		"attackSound": "metalhit"
 		// Barbarian unique Spearman. Has same icon and name but slightly different 3d texture
 	},
-	*/
+	{
+		"name": "Spy",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can enter foreign tiles without open borders","Invisible to others"],
+		"cost": 80
+		"requiredTech": "Writing",
+	},
 
 	/* Classical Era */
 	{
@@ -304,6 +308,14 @@
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 		// Barbarian unique Swordsman. Has same icon and name but slightly different 3d texture
+	},
+	{
+		"name": "Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a sum of gold and [15] Influence",
+		"movement": 2
+		"cost":70,
+		"requiredTech": "Currency",
 	},
 	
 	*/
@@ -473,7 +485,14 @@
 		"obsoleteTech": "Chemistry",
 		"attackSound": "arrow"
 	},
-
+{
+		"name": "Cleric",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["All adjacent units heal [10] extra HP when healing"],
+		"cost": 275,
+		"requiredTech": "Education",
+	},
 
 	// Rennaisance Era
 
