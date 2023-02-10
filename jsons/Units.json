@@ -311,7 +311,7 @@
 	{
 		"name": "Merchant",
 		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a sum of gold and [15] Influence"],
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence"],
 		"movement": 2
 		"cost":70,
 		"requiredTech": "Currency",
